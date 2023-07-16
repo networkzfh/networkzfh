@@ -14,4 +14,3 @@
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=networkzfh&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
